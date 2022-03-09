@@ -26,7 +26,7 @@
             <input type="password" class="form-input" name="password" id="txtpassword" placeholder="Mật khẩu">
 >>>>>>> 81c497df460763628a4cf5b157c5475ec7e6db1f
         </div>
-        <input type="submit" name="submit" value="btnlogin" class="form-submit">
+        <input type="submit" name="submit" value="đăng nhập" class="form-submit">
     </form>
 </div>
 </body>
