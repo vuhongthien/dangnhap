@@ -15,6 +15,12 @@
             <label>UserName</label>
             <input type="text" class="form-input" name="username" id="txtUserName" placeholder="Tên đăng nhập">
         </div>
+
+        <div class="form-group">
+            <i class="far fa-key"></i>
+            <label>Mật khẩu</label>
+            <input type="password" class="form-input" name="password" id="txtmatkhau" placeholder="Mật khẩu">
+        </div>
         
     </form>
 </div>
