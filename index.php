@@ -12,13 +12,13 @@
         <h1 class="form-heading">Đăng Nhập</h1>
         <div class="form-group">
             <i class="far fa-user"></i>
-            <label>UserName</label>
+            <label>Tên đăng nhập</label>
             <input type="text" class="form-input" name="username" id="txtUserName" placeholder="Tên đăng nhập">
         </div>
 
         <div class="form-group">
             <i class="far fa-key"></i>
-            <label>Mật khẩu</label>
+            <label>mật khẩu</label>
             <input type="password" class="form-input" name="password" id="txtmatkhau" placeholder="Mật khẩu">
         </div>
         
